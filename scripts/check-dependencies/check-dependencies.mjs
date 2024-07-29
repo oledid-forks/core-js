@@ -3,9 +3,6 @@ const ignore = {
     'mkdirp',
     'webpack',
   ],
-  'tests/eslint': [
-    'eslint-plugin-sonarjs',
-  ],
   'tests/observables': [
     'moon-unit',
   ],
